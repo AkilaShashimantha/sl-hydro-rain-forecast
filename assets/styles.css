@@ -1,0 +1,37 @@
+/* Global theme accents */
+:root {
+  --primary: #3b82f6; /* blue-500 */
+  --accent: #22d3ee;  /* cyan-400 */
+  --bg1: #0f172a;     /* slate-900 */
+  --bg2: #111827;     /* gray-900 */
+  --text: #e5e7eb;    /* gray-200 */
+}
+
+body, .main, .block-container { background: linear-gradient(135deg, var(--bg1), var(--bg2)); color: var(--text); }
+
+h1, h2, h3, h4, h5, h6, p, label, .stMarkdown { color: var(--text) !important; }
+
+/* Header */
+.app-header { 
+  padding: 16px 20px; 
+  border-radius: 14px; 
+  background: radial-gradient(1200px 400px at 0% 0%, rgba(34,211,238,0.15), transparent),
+              radial-gradient(1200px 400px at 100% 0%, rgba(59,130,246,0.15), transparent),
+              linear-gradient(180deg, rgba(255,255,255,0.06), rgba(255,255,255,0));
+  border: 1px solid rgba(255,255,255,0.08);
+  margin-bottom: 10px;
+}
+.app-header h1 { margin: 0 0 6px 0; font-weight: 700; }
+.app-header p { margin: 0; opacity: 0.85; }
+
+/* Cards */
+.css-1r6slb0, .stMetric { background: rgba(17,24,39,0.5) !important; border-radius: 12px !important; }
+
+/* Sidebar */
+section[data-testid="stSidebar"] { background: rgba(17,24,39,0.8); }
+
+/* Dataframe */
+.css-1d391kg, .stDataFrame { background: rgba(2,6,23,0.5) !important; }
+
+/* Plotly figure text */
+.js-plotly-plot .main-svg { color: var(--text) !important; }
