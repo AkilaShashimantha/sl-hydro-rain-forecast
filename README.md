@@ -1,4 +1,4 @@
-<img width="1917" height="861" alt="2" src="https://github.com/user-attachments/assets/540158f0-2873-4ba5-9ead-e7640e88b195" /># 💧⚡ Sri Lanka Rain & Energy Forecasting
+# 💧⚡ Sri Lanka Rain & Energy Forecasting
 
 Forecast Sri Lanka’s monthly rainfall, hydroelectric output, and total generation using a clean ML pipeline and an attractive Streamlit app. Includes training notebooks, CLI tools, scenario analysis, and model loading.
 
