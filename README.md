@@ -1,4 +1,4 @@
-# 💧⚡ Sri Lanka Rain & Energy Forecasting
+<img width="1917" height="861" alt="2" src="https://github.com/user-attachments/assets/540158f0-2873-4ba5-9ead-e7640e88b195" /># 💧⚡ Sri Lanka Rain & Energy Forecasting
 
 Forecast Sri Lanka’s monthly rainfall, hydroelectric output, and total generation using a clean ML pipeline and an attractive Streamlit app. Includes training notebooks, CLI tools, scenario analysis, and model loading.
 
@@ -138,4 +138,24 @@ For detailed workflow guidance, see the sections and code references inside:
 - You can replace or upload your own CSV with the same column semantics.
 
 ---
-Want help adding a “start at month” date picker to the app, or filtering the model dropdown to only show compatible targets? I can add those next.
+## Streamlit deploy link :  https://m89aostwuq3jutouw2xapz.streamlit.app/
+---
+
+screenshots
+<br>
+<img width="1918" height="862" alt="1" src="https://github.com/user-attachments/assets/7697b8e0-b635-4750-8cca-61edda36d441" />
+<br>
+<img width="1917" height="861" alt="2" src="https://github.com/user-attachments/assets/fa310515-83fb-4ae4-a002-b5698cdf93dd" />
+<br>
+<img width="1918" height="862" alt="4" src="https://github.com/user-attachments/assets/628eaecc-f0f5-41a9-8811-f036d5cde073" />
+<br>
+<img width="1918" height="862" alt="4" src="https://github.com/user-attachments/assets/edfc85d7-9fb4-4cca-9c7d-9ba9d10e9496" />
+<br>
+<img width="1918" height="862" alt="5" src="https://github.com/user-attachments/assets/54f1b98c-028d-4a65-8fc6-6a1a3ec23f68" />
+<br>
+<img width="1917" height="863" alt="6" src="https://github.com/user-attachments/assets/5727ab94-a55c-43b0-95d4-0b28401090de" />
+<br>
+<img width="1916" height="866" alt="7" src="https://github.com/user-attachments/assets/c55832b7-4f16-47d9-a1c6-7a265caae7bc" />
+<br>
+
+
