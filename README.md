@@ -104,7 +104,7 @@ Use the notebook for experimental work (feature ablations, model comparisons, er
 - Notebook: [`01_model_training.ipynb`](file:///d:/Energy%20Prediction%20App/notebooks/01_model_training.ipynb)
 - Recommended: add your EDA and evaluation plots here; save models to [`artifacts/`](file:///d:/Energy%20Prediction%20App/artifacts)
 
-## Team workflows (5 members)
+## workflows
 1) Data acquisition & preprocessing
    - Own cleaning/aggregation and data dictionary; QA the dataset.
 2) Rainfall forecasting
